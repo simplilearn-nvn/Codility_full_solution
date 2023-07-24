@@ -2,62 +2,62 @@
 
 oding Practice. Just for fun.
 
-Lesson 1 Time Complexity
+# Lesson 1 Time Complexity
 TapeEquilibrium
 FrogJmp
 PermMissingElem
-Lesson 2 Counting Elements
+# Lesson 2 Counting Elements
 PermCheck
 FrogRiverOne
 MaxCounters
 MissingInteger
-Lesson 3 Prefix Sums
+# Lesson 3 Prefix Sums
 PassingCars
 CountDiv
 MinAvgTwoSlice
 GenomicRangeQuery
-Lesson 4 Sorting
+# Lesson 4 Sorting
 MaxProductOfThree
 Distinct
 Triangle
 NumberOfDiscIntersections
-Lesson 5 Stacks and Queues
+# Lesson 5 Stacks and Queues
 Brackets
 Nesting
 Fish
 StoneWall
-Lesson 6 Leader
+# Lesson 6 Leader
 EquiLeader
 Dominator
-Lesson 7 Maximum slice problem
+# Lesson 7 Maximum slice problem
 MaxProfit
 MaxSliceSum
 MaxDoubleSliceSum
-Lesson 8 Prime and composite numbers
+# Lesson 8 Prime and composite numbers
 MinPerimeterRectangle
 CountFactors
 Peaks
 Flags
-Lesson 9 Sieve of Eratosthenes
+# Lesson 9 Sieve of Eratosthenes
 CountSemiprimes
 CountNonDivisible
-Lesson 10 Euclidean algorithm
+# Lesson 10 Euclidean algorithm
 ChocolatesByNumbers
 CommonPrimeDivisors
-Lesson 11 Fibonacci numbers
+# Lesson 11 Fibonacci numbers
 Ladder
 FibFrog
-Lesson 12 Binary search algorithm
+# Lesson 12 Binary search algorithm
 MinMaxDivision
 NailingPlanks
-Lesson 13 Caterpillar method
+# Lesson 13 Caterpillar method
 AbsDistinct
 CountDistinctSlices
 CountTriangles
 MinAbsSumOfTwo
-Lesson 14 Greedy algorithms
-MaxNonoverlappingSegments
-TieRopes
-Lesson 15 Dynamic programming
+# Lesson 14 Greedy algorithms
+[MaxNonoverlappingSegments]
+[TieRopes]
+# Lesson 15 Dynamic programming
 [NumberSolitaire]
 [MinAbsSum]
